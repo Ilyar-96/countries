@@ -1,7 +1,10 @@
 
 
 .tet {
-
+	@media (min-width:1200px){
+		  display: flex;
+			gap: 5rem;
+	}
 }
 
 
